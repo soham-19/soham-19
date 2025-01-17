@@ -14,6 +14,7 @@ I'm Soham Kulkarni, a final year Computer Engineering student at KKWIEER, Nashik
 - 🔧 Proficient in Data Structures and Algorithms.
 - 📚 Programming Languages: C, C++, Java, JavaScript, Python.
 - 🤖 I have knowledge in Machine Learning and I am continuously learning more.
+- 💻 I make projects about openCV and hardware integration.
 - 🚀 I am actively looking for work opportunities.
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sohamkulkarni/) or check out my projects on [GitHub](https://github.com/soham-19).
